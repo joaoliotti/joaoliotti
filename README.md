@@ -1,5 +1,6 @@
 ### 👋 Olá, Eu sou o João Liotti !!
 ### 💻 Apaixonado por tecnologia | Focado em Backend | Sempre aprendendo
+#### Sou programador desde os 18 anos. Desde o primeiro contato com a programação, me encantei com a possibilidade de criar soluções do zero e resolver problemas de forma lógica e criativa. Recentemente, foquei minha jornada na área de backend, onde venho me aprofundando cada vez mais. Desde então, sigo estudando constantemente para evoluir como desenvolvedor e como pessoa.
 
 [![Blog](https://img.shields.io/badge/joaoliotti.com-000000?style=for-the-badge&logo=&logoColor=white
 )](https://joaoliotti.com)
@@ -20,5 +21,3 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-Sou programador desde os 18 anos. Desde o primeiro contato com a programação, me encantei com a possibilidade de criar soluções do zero e resolver problemas de forma lógica e criativa. Recentemente, foquei minha jornada na área de backend, onde venho me aprofundando cada vez mais. Desde então, sigo estudando constantemente para evoluir como desenvolvedor e como pessoa.
