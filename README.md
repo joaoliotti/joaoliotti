@@ -13,11 +13,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoliotti&show=prs_merged&theme=tokyonight&cache_seconds=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoliotti&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1)
-
 ## 🚀 Tecnologias que utilizo no meu dia a dia
 
 ![Java](https://img.shields.io/badge/Java-02569B?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoliotti&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1)
