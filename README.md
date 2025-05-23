@@ -11,7 +11,7 @@
 [![appspublicados](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
 )](https://drive.google.com/drive/folders/1hq4wDlT1mAJ3B-JmwDBjS2ySz94c8dAT?usp=sharing)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoliotti&show=reviews,discussions_started,discussions_answered,prs_merged)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoliotti&show=prs_merged&theme=tokyonight&cache_seconds=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoliotti&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1)
 
