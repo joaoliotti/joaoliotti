@@ -11,8 +11,6 @@
 [![appspublicados](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
 )](https://drive.google.com/drive/folders/1hq4wDlT1mAJ3B-JmwDBjS2ySz94c8dAT?usp=sharing)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoliotti&show=prs_merged&theme=tokyonight&cache_seconds=1)
-
 ## 🚀 Tecnologias que utilizo no meu dia a dia
 
 ![Java](https://img.shields.io/badge/Java-02569B?style=for-the-badge&logo=java&logoColor=white)
