@@ -17,5 +17,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoliotti&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter)
